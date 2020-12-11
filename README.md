@@ -1,8 +1,7 @@
 # Leafy
-[![GitHub Release](https://img.shields.io/github/release/zjayers/leafy.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/leafy.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/leafy.svg?style=flat)](https://github.com/zjayers/leafy/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/leafy.svg?style=flat)](https://github.com/zjayers/leafy/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/leafy.svg?maxAge=25000)](https://github.com/zjayers/leafy/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/leafy/blob/master/LICENSEs)
 
 ## Description
 
